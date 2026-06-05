@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;LLM+Infra+%7C+Distributed+Systems;C%2B%2B+%7C+Python+%7C+Systems+Thinker;Long-term%3A+Space+%26+Low-Latency+Infra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;LLM+Tooling+%7C+Python+%7C+C%2B%2B;Long-term%3A+Space+%26+Low-Latency+Infra)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,7 +9,7 @@
 
 ## whoami
 
-Software developer with a focus on AI/ML — building LLM tooling, distributed systems, and low-latency C++ out of genuine curiosity.
+Software developer focused on AI/ML — building LLM tooling, low-latency C++ systems, and whatever seems interesting enough to build.
 
 B.Tech CSE — Jaypee University of Information Technology (2025).  
 Competitive programming roots (700+ DSA problems). Strong C++17 / systems background.
