@@ -48,9 +48,9 @@ Databases     PostgreSQL · Supabase · SQLite
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpan6103&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=arpan6103&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpan6103&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arpan6103&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 </div>
 
