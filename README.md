@@ -58,7 +58,7 @@ Databases     PostgreSQL · Supabase · SQLite
 
 ## currently
 
-- 🤖 Targeting AI/ML roles — actively learning and building in the space
+- 🤖 Targeting AI/ML roles — actively learning and building
 - 🛰️ Long-term: systems roles in space / HFT / low-latency infra
 
 ---
